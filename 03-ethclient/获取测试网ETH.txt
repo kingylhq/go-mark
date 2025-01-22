@@ -1,0 +1,41 @@
+可通过以下中的地址，获得测试网资源。
+
+测试网环境获取
+https://www.alchemy.com
+
+https://access.rockx.com
+
+https://www.quicknode.com/ (强制绑定信用卡)
+
+https://www.infura.io/
+
+https://ethereum.publicnode.com/?sepolia (无需注册，可以直接使用，但偶尔会抽风)
+
+https://www.chainstack.com
+
+测试网代币获取
+需要关联 Alchemy 账号
+
+https://www.alchemy.com/faucets/ethereum-sepolia
+
+需要关联 RockX 账号
+
+https://access.rockx.com/faucet-sepolia
+
+需要关联 Quicknode 账号
+
+https://faucet.quicknode.com/ethereum/sepolia
+
+需要关联 Infura 账号
+
+https://www.infura.io/faucet/sepolia
+
+不需要注册账号
+
+https://console.optimism.io/faucet
+
+这个不需要关联账号 但是需要自己挖
+
+https://www.ethereum-ecosystem.com/faucets/ethereum-sepolia
+
+可通过上面地址获取测试网以及测试币。
